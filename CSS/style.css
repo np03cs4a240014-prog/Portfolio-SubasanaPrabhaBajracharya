@@ -1,0 +1,49 @@
+footer{
+	text-align: center;
+}
+.link{
+	text-decoration: none;
+}
+*{
+				font-size:30px;
+				font:sans-serif;
+			}
+
+			section{
+				min-height:200px;
+				border:2px solid;
+
+
+			}
+			#banner {
+				background-color:blue;
+				margin-top:40px;
+				padding-top: 30px;
+				padding-left: 300px;
+			}
+			#section2 {
+				background-color: red;
+				margin-top: 20px;
+				padding-left: 100px;
+			}
+			#section3 {
+				background-color: green;
+				margin-top: 20px;
+				padding-left:100px;
+			}
+
+			nav {
+				margin-top: 50px;
+				margin-bottom:50px;
+				background-color:whitesmoke;
+				min-height:50px;
+				padding top:50px;
+				text-align: center;
+				word-spacing: 40px;
+			}
+			h1{
+				font-size: 90px;
+				font-family:sans-serif;
+				text-align: center;
+
+			}
