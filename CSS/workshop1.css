@@ -74,13 +74,16 @@ nav{
 margin-top: 100px;
 padding-top: 30px;
 padding-left: 300px;
-text-align:left;
+text-align:center;
 font-size: 30px;
 text-color:beige;
 color:#D2691E;
 float:left;
-
-
+ text-decoration: dashed;
+padding: 10px;
+transition:20.s;
+position: relative;
+transform: translateY(-2px);
 }
 
 .about p{
@@ -92,15 +95,12 @@ float:left;
 }
 
 #project{
-margin-top: 100px;
-padding-left: 100px;
-text-align: center;
-font-size: 30px;
-color:#D2691E;
-float:float-left;
+    padding:100px;
+
+
 }
 .project-grid{
-    marrgin-top:30px;
+    margin-top:30px;
     display:flex;
     justify-content: center;
     gap:25px;
